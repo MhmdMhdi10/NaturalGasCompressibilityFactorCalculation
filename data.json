@@ -1,0 +1,119 @@
+{
+  "Composition Dictionary": {
+    "Carbon dioxide": 1.4,
+    "Ethane": 5.28,
+    "Heptanes plus": 0.93,
+    "Hexanes": 0.24,
+    "Hydrogen sulfide": 8.67,
+    "Methane": 79.81,
+    "Nitrogen": 0.45,
+    "Propane": 1.71,
+    "i-Butane": 0.55,
+    "i-Pentane": 0.24,
+    "n-Butane": 0.53,
+    "n-Pentane": 0.19
+  },
+
+
+
+  "Seven Plus Properties Dictionary": {
+    "molecularweight": 132,
+    "specific_gravity": 0.759
+  },
+
+
+
+  "Pseudo-Critical Properties Dictionary": {
+
+    "Carbon dioxide": {
+      "accentric_factor": 0.225,
+      "mw": 44.01,
+      "pc": 1071.3,
+      "tc": 548.46
+    },
+
+    "Ethane": {
+      "accentric_factor": 0.0986,
+      "mw": 30.07,
+      "pc": 708.34,
+      "tc": 549.77
+    },
+
+    "Heptanes plus": {
+      "accentric_factor": 0.42708,
+      "mw": 132.0,
+      "pc": "-",
+      "tc": "-"
+    },
+
+    "Hexanes": {
+      "accentric_factor": 0.299,
+      "mw": 86.18,
+      "pc": 436.62,
+      "tc": 913.5
+    },
+
+    "Hydrogen sulfide": {
+      "accentric_factor": 0.1,
+      "mw": 34.08,
+      "pc": 1296.2,
+      "tc": 672.48
+    },
+
+    "Methane": {
+      "accentric_factor": 0.013,
+      "mw": 16.04,
+      "pc": 667.78,
+      "tc": 343.08
+    },
+
+    "Nitrogen": {
+      "accentric_factor": 0.04,
+      "mw": 28.01,
+      "pc": 492.31,
+      "tc": 227.16
+    },
+
+    "Propane": {
+      "accentric_factor": 0.1524,
+      "mw": 44.1,
+      "pc": 615.76,
+      "tc": 665.64
+    },
+
+    "i-Butane": {
+      "accentric_factor": 0.1848,
+      "mw": 58.12,
+      "pc": 529.05,
+      "tc": 734.58
+    },
+
+    "i-Pentane": {
+      "accentric_factor": 0.227,
+      "mw": 72.15,
+      "pc": 491.58,
+      "tc": 828.72
+    },
+
+    "n-Butane": {
+      "accentric_factor": 0.201,
+      "mw": 58.12,
+      "pc": 550.66,
+      "tc": 765.36
+    },
+
+    "n-Pentane": {
+      "accentric_factor": 0.251,
+      "mw": 72.15,
+      "pc": 488.79,
+      "tc": 845.28
+    }
+  },
+
+
+  "Temperature and Pressure Dictionary": {
+    "Pressure": 5709,
+    "Temprature": 293
+  }
+
+}
